@@ -1,8 +1,6 @@
 import React from "react";
 import clsx from "clsx";
 
-import { ctaDetails } from "@/data/cta";
-
 const GetStartedButton = ({ dark }: { dark?: boolean }) => {
   return (
     <a href="https://spiffy-llama-4c1046.netlify.app/">
