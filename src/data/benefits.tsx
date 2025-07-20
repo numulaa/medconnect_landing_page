@@ -4,14 +4,14 @@ import { IBenefit } from "@/types";
 
 export const benefits: IBenefit[] = [
   {
-    title: "Smart CHatbot Integration",
+    title: "Smart Chatbot Integration",
     description:
       "Chat with our chatbot to open a new case and get notified when receiving responses",
     bullets: [
       {
         title: "Threaded Case Conversations",
         description:
-          "ach request becomes its own thread, with replies stored chronologically.",
+          "Each request becomes its own thread, with replies stored chronologically.",
         icon: <FiBarChart2 size={26} />,
       },
       {
